@@ -1,4 +1,4 @@
-![Talent For Life Header Image](/docs/tfl.png)
+![Talent For Life Header Image](/tfl.png)
 
 https://talentfor.life
 
