@@ -1,5 +1,6 @@
 ![Talent For Life Header Image](/tfl.png)
 
+https://talentfor.life
 
 Talent For Life
 ===============
@@ -9,7 +10,7 @@ Talent For Life
 
 ## Why
 
-This site exists to connect creatives and doers to the organizations that are fighting for their lives by cutting out some of the leg work necessary to get the process started. 
+This resource exists to connect creatives and doers to the organizations that are fighting for their lives by cutting out some of the leg work necessary to get the process started. 
 
 The goal is to provide actionable direction for channeling creative energy in supporting Black voices in lieu of misdirected, but well intentioned, creativity. 
 
@@ -20,7 +21,7 @@ In other words, our posters are beautiful... but they would work better with str
 ### Steps
 
 1. Inventory your time, decide on what you can donate and prepare yourself by setting realistic goals
-2. Find your state in the sidebar
+2. Find your state in the list of pages
 3. Using the email template below, reach out to one, or many, of these organizations
 
 ```
