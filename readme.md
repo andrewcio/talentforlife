@@ -4,16 +4,16 @@
 Talent For Life
 ===============
 
-> Donate your talent, time, and resources to organizations hell bent on change.
+> Donate your talent, time, and resources to organizations hell bent on change. Use this list to find direct links for getting connected with organizations in your state.
 
 
 ## Why
 
-This site exists to connect creatives and doers to the organizations that are fighting for their lives by optimizing some of the leg work necessary to get the process started. 
+This site exists to connect creatives and doers to the organizations that are fighting for their lives by cutting out some of the leg work necessary to get the process started. 
 
-The goal is to provide actionable direction for channeling creative energy in supporting Black voices in lieu of misdirected creativity contributing to the noise. 
+The goal is to provide actionable direction for channeling creative energy in supporting Black voices in lieu of misdirected, but well intentioned, creativity. 
 
-In other words, our posters are beautiful... but they would work better with strategic messaging and execution in mind. Let's get some briefs together and do intentional work.
+In other words, our posters are beautiful... but they would work better with strategic messaging and execution in mind. Let's get some briefs together and do intentional work instead of contributing to the noise.
 
 ## This is how it works
 
@@ -42,8 +42,11 @@ Thank you for the work that you do!
 
 ```
 
+- **IMPORTANT:** If subject line is not available, please **include the words "Talent For Life" in your message** so that organizers can filter these messages should the response be overwhelming.
 4. Support them with your skills and time
 5. Hope that this branch of the universal wave function improves
+
+-------
 
 Ten minutes here, a couple hours here, we've amassed knowledge and skills working for organizations who, for better or for worse, have been successful. Now let's use those powers in the right direction.
 
@@ -51,17 +54,22 @@ Disclaimer: Working for free sucks. Working for mission driven organizations is 
 
 ### Contribute
 
-Edit these pages using GitHub. This is the format for each listing:
+Edit and add to these pages using GitHub via the "Edit this page" link on each page. You'll need a GitHub account. This is the format for each listing:
 
 ```
 - Title
     - Website URL
     - Contact email address or URL to contact page
+    - Other links for getting involved
 ```
+
+Learn more about how to use Markdown: https://www.markdownguide.org/basic-syntax/
+
+The other option is simply sending a list of links to contact@talentfor.life and I will add them where they need to go. 
 
 ## Additional information
 
-### For organizations
+### For organizers
 
 #### Email filtering
 
@@ -105,6 +113,4 @@ My name is Andrew Ciobanasiu. I'm white, and I am tired of my black neighbors be
 
 I'm making this up as I go.
 
-contact@talentfor.life
-
-work@talentfor.life
+Questions, comments, and anything else: contact@talentfor.life

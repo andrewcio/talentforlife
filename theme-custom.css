@@ -119,6 +119,10 @@
 
 :root {
     --heading-h1-font-weight: 900;
+    --heading-h2-font-weight: 900;
+    --heading-h3-font-weight: 900;
+    --heading-h4-font-weight: 900;
+    --sidebar-name-font-weight: 900;
     --heading-color: #f7f7f7;
     --blockquote-background: #333;
     --code-theme-background: #333;
@@ -133,6 +137,10 @@
 
 .github-corner svg {
     fill: #000;
+}
+
+.sidebar-toggle {
+    top: 24px;
 }
 
 details {
