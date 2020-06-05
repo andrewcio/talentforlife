@@ -1,7 +1,7 @@
 - Information
-   - [Why](readme.md#why)
-   - [How](readme.md#this-is-how-it-works)
-   - [Additional](readme.md#additional-information)
+   - [Why](README.md#why)
+   - [How](README.md#this-is-how-it-works)
+   - [Additional](README.md#additional-information)
 
 - States
    - [Alabama](Alabama.md)
