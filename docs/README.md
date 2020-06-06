@@ -51,7 +51,7 @@ Thank you for the work that you do!
 
 Ten minutes here, a couple hours here, we've amassed knowledge and skills working for organizations who, for better or for worse, have been successful. Now let's use those powers in the right direction.
 
-Disclaimer: Working for free sucks. Working for mission driven organizations is great. Find a middle ground. This is purely a resource. This service is provided as-is and is intended to help connect idle hands with hands that need help. So let's hope that this isn't abused.
+Disclaimer: Working for free sucks. Working for mission driven organizations is great. Find a middle ground if pro-bono isn't something that can be offered. Steward boundaries. This is purely a resource and is provided as-is. It is intended to help connect idle hands with hands that need help. So let's operate on a good faith basis.
 
 ### Contribute
 
@@ -74,7 +74,7 @@ The other option is simply sending a list of links to contact@talentfor.life and
 
 #### Email filtering
 
-In order to prevent flooding your organization with emails, consider adding a filter to your email client(s) that better group Talent For Life emails.
+In order to prevent flooding your organization communications, consider adding a filter to your email client(s) that better group Talent For Life emails.
 
 <details>
   <summary>Gmail or Google Apps</summary>
