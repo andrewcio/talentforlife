@@ -5,25 +5,23 @@ https://talentfor.life
 Talent For Life
 ===============
 
-> Donate your talent, time, and resources to organizations hell bent on change. Use this list to find direct links for getting connected with organizations in your state.
+> Use this resource to find direct links for getting connected with organizations in your state.
 
 
 ## Why
 
-This resource exists to connect creatives and doers to the organizations that are fighting for their lives by cutting out some of the leg work necessary to get the process started. 
+This resource exists to connect creatives, doers, and all other types of volunteers to the organizations that are fighting for life and justic by cutting out some of the leg work necessary to get the process started. 
 
-The goal is to provide actionable direction for channeling creative energy in supporting Black voices in lieu of misdirected, but well intentioned, creativity. 
-
-In other words, our posters are beautiful... but they would work better with strategic messaging and execution in mind. Let's get some briefs together and do intentional work instead of contributing to the noise.
+The goal is to provide actionable direction for channeling creative energy in supporting Black voices in lieu of misdirected, but well intentioned, creativity and energy. 
 
 ## This is how it works
 
 ### Steps
 
-1. Inventory your time, decide on what you can donate and prepare yourself by setting realistic goals
+1. Inventory your time, decide on what you can offer and prepare yourself by setting realistic goals
 2. Find your state in the list of pages
-3. Using the email template below, reach out to one, or many, of these organizations
-
+3. Sign up to be a volunteer
+4. If contacting to donate services, use the template below
 ```
 Subject: Talent For Life: <your name>
 
@@ -42,16 +40,15 @@ You can learn more about me via these links:
 Thank you for the work that you do! 
 
 ```
-
 - **IMPORTANT:** If subject line is not available, please **include the words "Talent For Life" in your message** so that organizers can filter these messages should the response be overwhelming.
-4. Support them with your skills and time
-5. Hope that this branch of the universal wave function improves
+5. Support them with your skills and time
+6. Hope that this branch of the universal wave function improves
 
 -------
 
 Ten minutes here, a couple hours here, we've amassed knowledge and skills working for organizations who, for better or for worse, have been successful. Now let's use those powers in the right direction.
 
-Disclaimer: Doing company work for free sucks (say no to spec). Working for mission driven organizations, on the other hand, is great. However, not everyone can work for free. Find a middle ground if pro-bono isn't something that can be offered. Steward boundaries. This is purely a resource and is provided as-is. It is intended to help connect idle hands with hands that need help. So let's operate on a good faith basis.
+Disclaimer: Doing company work for free sucks (say no to spec). Working for mission driven organizations, on the other hand, is great. However, not everyone can work for free or has the privilege of free time. Find a middle ground if pro-bono or in-person volunteering aren't things that can be offered. Steward boundaries. This is purely a resource and is provided as-is. It is intended to help connect idle hands with hands that need help. So let's operate on a good faith basis.
 
 ### Contribute
 
@@ -106,6 +103,19 @@ In order to prevent flooding your organization communications, consider adding a
   https://support.microsoft.com/en-us/office/inbox-rules-in-outlook-web-app-edea3d17-00c9-434b-b9b7-26ee8d9f5622?ui=en-us&rs=en-us&ad=us
 </details>
 
+
+### Additional resources
+
+Please consider looking into these other resources and oppurtunities for getting involved:
+
+- Design for Black Lives
+    - Pro-bono design service sign up and request
+    - https://blmdesignform.netlify.com/
+    - https://www.instagram.com/designforblacklives/
+    
+- Designers Available
+    - Connecting social justice orgs with pro-bono design help
+    - http://designersavailable.com/
 
 
 ### Who
