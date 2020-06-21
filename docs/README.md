@@ -14,6 +14,21 @@ This resource exists to connect creatives, doers, and all other types of volunte
 
 The goal is to provide actionable direction for channeling creative energy in supporting Black voices in lieu of misdirected, but well intentioned, creativity and energy. 
 
+### Additional resources
+
+> Please consider looking into these other resources and oppurtunities for getting involved:
+
+- **Design for Black Lives**
+    - Pro-bono design service sign up and request
+    - https://blmdesignform.netlify.com/
+    - https://www.instagram.com/designforblacklives/
+    
+- **Designers Available**
+    - Connecting social justice orgs with pro-bono design help
+    - http://designersavailable.com/
+
+
+
 ## This is how it works
 
 ### Steps
@@ -102,20 +117,6 @@ In order to prevent flooding your organization communications, consider adding a
   #### Rules for the Outlook Webapp
   https://support.microsoft.com/en-us/office/inbox-rules-in-outlook-web-app-edea3d17-00c9-434b-b9b7-26ee8d9f5622?ui=en-us&rs=en-us&ad=us
 </details>
-
-
-### Additional resources
-
-Please consider looking into these other resources and oppurtunities for getting involved:
-
-- Design for Black Lives
-    - Pro-bono design service sign up and request
-    - https://blmdesignform.netlify.com/
-    - https://www.instagram.com/designforblacklives/
-    
-- Designers Available
-    - Connecting social justice orgs with pro-bono design help
-    - http://designersavailable.com/
 
 
 ### Who
