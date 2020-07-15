@@ -10,22 +10,25 @@ Talent For Life
 
 ## Why
 
-This resource exists to connect creatives, doers, and all other types of volunteers to the organizations that are fighting for life and justic by cutting out some of the leg work necessary to get the process started. 
+This resource exists to connect creatives, doers, and all other types of volunteers to the organizations that are fighting for life and justice by cutting out some of the leg work necessary to get the process started. 
 
 The goal is to provide actionable direction for channeling creative energy in supporting Black voices in lieu of misdirected, but well intentioned, creativity and energy. 
 
 ### Additional resources
 
-> Please consider looking into these other resources and oppurtunities for getting involved:
+> Please consider looking into these other resources and opportunities for getting involved:
 
 - **Design for Black Lives**
     - Pro-bono design service sign up and request
+    - https://designforblacklives.com/
     - https://blmdesignform.netlify.com/
     - https://www.instagram.com/designforblacklives/
-    
 - **Designers Available**
     - Connecting social justice orgs with pro-bono design help
     - http://designersavailable.com/
+- **Anti-racist Resource Guide**
+    - Comprehensive guide for anti-racism
+    - https://www.victorialynnalexander.com/antiracistresourceguide
 
 
 
@@ -37,6 +40,13 @@ The goal is to provide actionable direction for channeling creative energy in su
 2. Find your state in the list of pages
 3. Sign up to be a volunteer
 4. If contacting to donate services, use the template below
+- **IMPORTANT:** If subject line is not available, please **include the words "Talent For Life" in your message** so that organizers can filter these messages should the response be overwhelming.
+5. Support them with your skills and time
+6. Hope that this branch of the universal wave function improves
+
+<details>
+  <summary>Email template</summary>
+  
 ```
 Subject: Talent For Life: <your name>
 
@@ -55,9 +65,8 @@ You can learn more about me via these links:
 Thank you for the work that you do! 
 
 ```
-- **IMPORTANT:** If subject line is not available, please **include the words "Talent For Life" in your message** so that organizers can filter these messages should the response be overwhelming.
-5. Support them with your skills and time
-6. Hope that this branch of the universal wave function improves
+
+</details>
 
 -------
 
