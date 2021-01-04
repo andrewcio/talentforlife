@@ -5,32 +5,33 @@ https://talentfor.life
 Talent For Life
 ===============
 
-> Use this resource to find direct links for getting connected with organizations in your state.
+> :warning: **No longer actively maintained**: Since launching TFL, it was determined that continued efforts and energy should be dedicated to projects already established. This decision was made to ensure more thoughtful support, contributions, and impact. 
 
+### Worthwhile projects to look into
+
+> Please consider looking into these other resources and opportunities for getting involved:
+
+- **Designers Available**
+    - Connecting social justice orgs with pro-bono design help
+    - http://designersavailable.com/
+- **Design for Black Lives**
+    - Pro-bono design service sign up, request, and community
+    - https://designforblacklives.com/
+    - https://blmdesignform.netlify.com/
+    - https://www.instagram.com/designforblacklives/
+- **Anti-racist Resource Guide**
+    - Comprehensive guide for anti-racism
+    - https://www.victorialynnalexander.com/antiracistresourceguide
+    
+Everything below this line is for archival purposes (and to potentially serve as a template/inspiration for anyone who might find this useful). Email and contact information may be outdated. Contact talk@andrewc.io 
+
+-------
 
 ## Why
 
 This resource exists to connect creatives, doers, and all other types of volunteers to the organizations that are fighting for life and justice by cutting out some of the leg work necessary to get the process started. 
 
 The goal is to provide actionable direction for channeling creative energy in supporting Black voices in lieu of misdirected, but well intentioned, creativity and energy. 
-
-### Additional resources
-
-> Please consider looking into these other resources and opportunities for getting involved:
-
-- **Design for Black Lives**
-    - Pro-bono design service sign up and request
-    - https://designforblacklives.com/
-    - https://blmdesignform.netlify.com/
-    - https://www.instagram.com/designforblacklives/
-- **Designers Available**
-    - Connecting social justice orgs with pro-bono design help
-    - http://designersavailable.com/
-- **Anti-racist Resource Guide**
-    - Comprehensive guide for anti-racism
-    - https://www.victorialynnalexander.com/antiracistresourceguide
-
-
 
 ## This is how it works
 
@@ -130,7 +131,7 @@ In order to prevent flooding your organization communications, consider adding a
 
 ### Who
 
-My name is Andrew Ciobanasiu. I'm white, and I am tired of my black neighbors being killed.
+My name is Andrew Ciobanasiu. I'm lucky white dude, and I am tired of my black neighbors being killed.
 
 I'm making this up as I go.
 
